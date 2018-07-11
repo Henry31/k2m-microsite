@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The Key to Mobility ist eine App für Ihre Mobilität. Nutzen Sie den öffentlichen
   Nahverkehr in allen Städten bequem und einfach mit nur einer App.
   The Key to Mobility digitalisiert den öffentlichen Nahverkehr für Sie!
-baseurl: "k2m-microsite/" # the subpath of your site, e.g. /blog
+baseurl: "/k2m-microsite/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll

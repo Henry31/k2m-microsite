@@ -1,9 +1,3 @@
-_site
-.sass-cache
-.jekyll-metadata
-.idea
-k2m-microsite.iml
-
-# This is Jekyll relevant
 _site/
-
+.sass-cache/
+.jekyll-metadata

@@ -3,7 +3,7 @@ description: > # this means to ignore newlines until "baseurl:"
   The Key to Mobility ist eine App für Ihre Mobilität. Nutzen Sie den öffentlichen
   Nahverkehr in allen Städten bequem und einfach mit nur einer App.
   The Key to Mobility digitalisiert den öffentlichen Nahverkehr für Sie!
-baseurl: "/k2m-microsite" # the subpath of your site, e.g. /blog
+baseurl: "/k2m-microsite/" # the subpath of your site, e.g. /blog
 url: "http://henry.auffie.de" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
@@ -11,7 +11,7 @@ markdown: kramdown
 facebook:
   app_id: 
 
-logo: "../css/2018_style/img/icon-large.png"
+logo: "../css/2016_style/img/icon-large.png"
 
 social: 
   name: Your Facebook Page
